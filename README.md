@@ -13,9 +13,11 @@ The goal of this project is to understand this dataset, get some insight regardi
 
 #### **Conclusion**
 Following the training of differerent machine learning classifier on this dataset used together with cross validation, we achieved the maximum prediction performance (i.e accuracy) with Linear Support Vector Machine (SVM) algorithm. 
+
 ![Image 1](https://github.com/Martloni/Predict_credit_card_approval/blob/master/machine_learning_comparison.png)
 
 
 
 Also, from the analysis of this dataset, the two most important features that determines credit card approval are Prior Default and Credit score. This makes sense since banks need to know if they can rely on applicants to pay back their credit card loan. 
+
 ![Image 2](https://github.com/Martloni/Predict_credit_card_approval/blob/master/feature_ranking.png)
